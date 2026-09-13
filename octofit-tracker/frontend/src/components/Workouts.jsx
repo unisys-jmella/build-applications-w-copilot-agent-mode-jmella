@@ -1,4 +1,5 @@
 // API endpoint: /api/workouts/
+// https://example-8000.app.github.dev/api/workouts
 import { useEffect, useState } from 'react';
 import { getApiUrl, normalizeRecords } from '../utils/api';
 

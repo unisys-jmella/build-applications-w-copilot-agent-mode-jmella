@@ -1,4 +1,5 @@
 // API endpoint: /api/leaderboard/
+// https://example-8000.app.github.dev/api/leaderboard
 import { useEffect, useState } from 'react';
 import { getApiUrl, normalizeRecords } from '../utils/api';
 
