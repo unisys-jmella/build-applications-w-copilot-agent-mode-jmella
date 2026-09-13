@@ -1,3 +1,4 @@
+// API endpoint: /api/users/
 import { useEffect, useState } from 'react';
 import { getApiUrl, normalizeRecords } from '../utils/api';
 

@@ -1,3 +1,4 @@
+// API endpoint: /api/teams/
 import { useEffect, useState } from 'react';
 import { getApiUrl, normalizeRecords } from '../utils/api';
 
